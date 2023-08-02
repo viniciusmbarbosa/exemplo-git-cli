@@ -14,7 +14,17 @@
 
 ## Comandos principais do git
 
+
+Verificar usuário/email
 `git confit user.name` e `git config user.email`
+
+
+Mudar usuário e e-mail de forma global.
+
+**Obs:** normalmente  estes dados estão rekacionados ao usuário/conta do site GitHub.
+
+`git config --global user.name "Seu nome como quiser" `
+`git config --global user.name "Seu nome como quiser"`
 
 Inicializar um repositório (executado dentro da pasta)
 
