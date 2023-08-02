@@ -62,11 +62,17 @@ Adicionar/conectar o repositório remoto ao local.
 
  `git push origin main`
 
+ Pegar/Obter as mudanças do repositório online GitHub (PULL).
+
+`git clone endereço-do-repositório.git`
+
  Enviar as mudanças para o GitHub (PUSH)
 
  `git clone endereço-do-respositório.git`
 
  Copiando/Baixando um repositório para a máquina remota.
+
+
 
 
 
