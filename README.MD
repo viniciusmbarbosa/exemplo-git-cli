@@ -11,3 +11,12 @@
 - git status: ferificar o status do projeto
 - git add: tornar um arquivo rastreavél 
 - git commit -m "Criação do readme"
+
+## Comandos principais do git
+
+Inicializar um repositório (executado dentro da pasta)
+
+git init
+
+
+
