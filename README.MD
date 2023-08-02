@@ -14,13 +14,17 @@
 
 ## Comandos principais do git
 
+`git confit user.name` e `git config user.email`
+
 Inicializar um repositório (executado dentro da pasta)
 
-git init
+`git init`
 
 Verificar o status altual do repositório
 
-Git status
+``Git status``
+
+
 
 
 
