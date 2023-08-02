@@ -18,5 +18,9 @@ Inicializar um repositório (executado dentro da pasta)
 
 git init
 
+Verificar o status altual do repositório
+
+Git status
+
 
 
