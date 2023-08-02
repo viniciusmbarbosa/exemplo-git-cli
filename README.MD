@@ -15,6 +15,7 @@
 ## Comandos principais do git
 
 
+
 Verificar usuário/email
 `git confit user.name` e `git config user.email`
 
@@ -30,6 +31,15 @@ Inicializar um repositório (executado dentro da pasta)
 
 `git init`
 
+Renomear a branch de master para main (novo padrão)
+`git brach nome-branch-altual novo-nome-para-branch`
+
+Renomear branches.
+
+Para alterar a branch de master para main (novo padrão), usaríamos:
+
+ `git branch master main`
+
 Verificar o status altual do repositório
 
 ``Git status``
@@ -42,7 +52,21 @@ Adicionar (tornar arquivo rasteável) ao monitoramento do git.
 
 Fazer commit das alterações (salvar no histórico).
 
+`git remote add origin endereo-do-repositório.git`
 
+Adicionar/conectar o repositório remoto ao local.
+
+ `git clone endereço-do-repositorio.git`
+
+ Adicionar/conectar o repositório remoto ao local 
+
+ `git push origin main`
+
+ Enviar as mudanças para o GitHub (PUSH)
+
+ `git clone endereço-do-respositório.git`
+
+ Copiando/Baixando um repositório para a máquina remota.
 
 
 
