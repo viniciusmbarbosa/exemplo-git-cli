@@ -34,6 +34,17 @@ Verificar o status altual do repositório
 
 ``Git status``
 
+`git add nomearquivo` ou `git add .`
+
+Adicionar (tornar arquivo rasteável) ao monitoramento do git.
+
+`Git commit -m "Texto da mensagem sobre esta alteração"`
+
+Fazer commit das alterações (salvar no histórico).
+
+
+
+
 
 
 
