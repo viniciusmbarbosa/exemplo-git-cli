@@ -71,7 +71,7 @@ Adicionar/conectar o repositório remoto ao local.
  `git clone endereço-do-respositório.git`
 
  Copiando/Baixando um repositório para a máquina remota.
-
+Vinicius
 
 
 
